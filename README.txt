@@ -1,0 +1,1 @@
+This is a simple Brickout game I created using HTML Canvas and Javascript.
